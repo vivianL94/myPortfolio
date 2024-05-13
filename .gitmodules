@@ -1,0 +1,3 @@
+[submodule "myPortfolio"]
+	path = myPortfolio
+	url = https://github.com/vivianL94/myPortfolio.git
